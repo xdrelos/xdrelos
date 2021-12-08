@@ -1,5 +1,10 @@
 ### Junior Rails Fullstack Developer
-
+- Ruby on Rails / Ruby
+- CSS / Bootstrap
+- Javascript
+- PostgreSQL
+- Git / GitHub
+- Heroku
 <!--
 **xdrelos/xdrelos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
